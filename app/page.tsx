@@ -1,7 +1,7 @@
 'use client';
 import { useState } from 'react';
 
-const TWEET_URL = 'https://twitter.com/deshuu_/status/1953501969252864153';
+const TWEET_URL = 'https://twitter.com/deshuu_/status/1953503400567415199';
 
 export default function Page() {
   const [username, setUsername] = useState('');
